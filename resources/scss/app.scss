@@ -1,0 +1,26 @@
+@import '~bootstrap/scss/bootstrap';
+
+.ms-index-img {
+    width: 6rem;
+    margin: 1rem;
+}
+
+.ms-show-img {
+    width: 100%;
+}
+
+.ms-edit-img {
+    width: 10rem;
+}
+
+.ms-wrap-preview {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+}
+
+.ms-preview-delete {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+}
